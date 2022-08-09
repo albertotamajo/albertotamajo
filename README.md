@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**albertotamajo/albertotamajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an outstanding third-year MEng Computer Science with Artificial Intelligence student at the University
 of Southampton. I was the recipient of the Netcraft Prize during my first academic year as I ranked in the
 top 10 computer science cohort at the University of Southampton. I was granted the DAAD RISE Germany
