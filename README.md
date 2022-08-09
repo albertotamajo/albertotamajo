@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/albertotamajo)
 
 I am an outstanding third-year MEng Computer Science with Artificial Intelligence student at the [University of Southampton](https://www.southampton.ac.uk/).
 I was the recipient of the **Netcraft Prize** during my first academic year as I ranked in the
