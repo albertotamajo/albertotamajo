@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am an outstanding third-year MEng Computer Science with Artificial Intelligence student at the [University of Southampton](https://www.southampton.ac.uk/).
 I was the recipient of the **Netcraft Prize** during my first academic year as I ranked in the
